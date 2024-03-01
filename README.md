@@ -9,6 +9,12 @@ Project presented in the Corporate Applications Development Discipline, in the 5
 ## Dependencies for installation:
 - Node.js (version 16.15.0 was used during development);
 - Git.
+- npm install -g yarn
+- yarn add bootswatch
+- yarn add react-router-dom@5.1.2
+- yarn add axios
+- yarn add toastr
+- yarn add primeicons
 
 ## Obtaining the source code:
 With Git installed on your computer, open a command line terminal (on Windows, use Git Bash or Terminal).
@@ -18,13 +24,6 @@ With Git installed on your computer, open a command line terminal (on Windows, u
 ###Configuring and running:
 In the command line, navigate to the project directory:
 ```bash
-cd /{path}/{to}/{repository}/falacampus-frontend
-npm install -g yarn
-yarn add bootswatch
-yarn add react-router-dom@5.1.2
-yarn add axios
-yarn add toastr
-yarn add primeicons
 npm install
 npm install -g yarn
 ### Para a execução da aplicação, digite:
