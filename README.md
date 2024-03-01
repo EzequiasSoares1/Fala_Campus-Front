@@ -21,12 +21,11 @@ With Git installed on your computer, open a command line terminal (on Windows, u
 
 ## Paste the following command:
 
-###Configuring and running:
+### Configuring and running:
 In the command line, navigate to the project directory:
 ```bash
 npm install
 npm install -g yarn
-### Para a execução da aplicação, digite:
-npm start ou
-yarn start
+
+npm start ou yarn start
 
